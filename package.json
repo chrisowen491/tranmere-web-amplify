@@ -1,0 +1,19 @@
+{
+  "name": "tranmere-web-amplify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisowen491/tranmere-web-amplify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisowen491/tranmere-web-amplify/issues"
+  },
+  "homepage": "https://github.com/chrisowen491/tranmere-web-amplify#readme"
+}
